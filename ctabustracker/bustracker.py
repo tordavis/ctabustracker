@@ -42,7 +42,7 @@ attributes parsed from the API's XML.
 For a demonstration of features, execute the module.
 """
 
-CTA_API_VERSION = 'v1'
+CTA_API_VERSION = 'v3'
 CTA_API_ROOT_URL = 'http://www.ctabustracker.com/bustime/api'
 
 class CTABusTracker(object):
